@@ -61,3 +61,6 @@ You can install the required libraries using pip:
 ```bash
 pip install tensorflow opencv-python numpy pandas matplotlib seaborn scikit-learn
 
+# Source
+I retrieved the dataset from https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+#
