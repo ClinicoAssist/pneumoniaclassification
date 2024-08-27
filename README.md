@@ -56,11 +56,13 @@ The goal of this project is to develop a deep learning model that can accurately
 - Seaborn
 - scikit-learn
 
+# Source
+I retrieved the dataset from https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
 You can install the required libraries using pip:
 
 ```bash
 pip install tensorflow opencv-python numpy pandas matplotlib seaborn scikit-learn
 
-# Source
-I retrieved the dataset from https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
 #
